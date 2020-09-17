@@ -1,3 +1,5 @@
 print("Hola mundo")
 nombre = str(input("Nombre: "))
-print("Hola ", nombre)
+print("Hola", nombre)
+edad = int(input("¿Cuantos años tienes?: "))
+print("El proximo año cumplirás", edad + 1)
